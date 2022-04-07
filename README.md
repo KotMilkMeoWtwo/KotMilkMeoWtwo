@@ -1,1 +1,1 @@
-[![KotMilkMeoW's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![KotMilkMeoW's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotmilkmeowtwo)](https://github.com/kotmilkmeowtwo/github-readme-stats)
