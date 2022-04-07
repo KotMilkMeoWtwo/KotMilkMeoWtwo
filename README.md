@@ -9,3 +9,6 @@
 [![KotMilkMeoW's github activity graph](https://activity-graph.herokuapp.com/graph?username=kotmilkmeowtwo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotmilkmeowtwo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+use+manjaro+linux+btw)](https://git.io/typing-svg)
+
