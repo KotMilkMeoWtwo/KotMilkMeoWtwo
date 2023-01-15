@@ -5,7 +5,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![KotMilkMeoWtwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotmilkmeowtwo&show_icons=true&theme=dark)
 [![KotMilkMeoW's github activity graph](https://activity-graph.herokuapp.com/graph?username=kotmilkmeowtwo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotmilkmeowtwo&theme=nord_dark" alt="Resume" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kotmilkmeowtwo&theme=nord_dark" alt="Top languages" />
